@@ -1,0 +1,17 @@
+body {
+    background-color: #1a202c;
+    color: #cbd5e0;
+}
+
+th,
+td {
+    border-color: #2d3748;
+}
+
+a {
+    color: #4299e1;
+}
+
+a:hover {
+    color: #3182ce;
+}
